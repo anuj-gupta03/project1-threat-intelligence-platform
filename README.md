@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advanced Threat Intelligence Platform and Dynamic Policy Enforcer
 
 A safe-by-default implementation of Infotact Cybersecurity Project 1. The platform collects public threat intelligence, normalizes and deduplicates indicators, assigns risk scores, stores them in MongoDB, exports them to Elasticsearch/Kibana, and can manage high-risk IP blocks through a dedicated Linux iptables chain.
@@ -178,3 +179,6 @@ bandit -q -r src
 ## Important evaluation note
 
 The internship specification requires visible GitHub commits during all four weeks. Do not upload this project in one final commit. Follow the branch and commit schedule in docs/FOUR_WEEK_PLAN.md.
+=======
+# project1-threat-intelligence-platform
+>>>>>>> 71e7c9175584a7be59855db1fc2b786e0a5a9c78
